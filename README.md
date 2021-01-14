@@ -1,7 +1,7 @@
-
- <h1>Company-Portfolio<h1> 
-  <p>Displays information about a web design company</p>
-
+<div>
+ <h1>Company-Portfolio <br><p>Displays information about a web design company</p><h1> 
+  
+</div>
 
 <div>
   <h2>Languages<h2>
