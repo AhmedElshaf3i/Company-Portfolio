@@ -1,5 +1,6 @@
 <div>
- <h1>Company-Portfolio <br><p>Displays information about a web design company</p><h1> 
+ <h1>Company-Portfolio<h1> 
+ <p>It Displays information about a web design company</p>
   
 </div>
 
