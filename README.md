@@ -1,5 +1,5 @@
 <div>
-  <h1> Company-Portfolio<h1>
+  <h1>Company-Portfolio<h1>
   <p>Displays information about a web design company</p>
 </div>
 
